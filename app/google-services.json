@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "925980441506",
+    "project_id": "registro-electoral",
+    "storage_bucket": "registro-electoral.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925980441506:android:33e3494e0812d4161c50fb",
+        "android_client_info": {
+          "package_name": "com.example.registroelectoral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925980441506-j0langbftsp20qgf05c69881gclgjv92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registroelectoral",
+            "certificate_hash": "b2489ffc8cb97cbdc790df4c474cb3a805b46d37"
+          }
+        },
+        {
+          "client_id": "925980441506-ss3bnho3v4djui5afpa39s4tdct5m1a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGoGyAKHPHrMv2aVplz4znRC9D3CmBjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925980441506-ss3bnho3v4djui5afpa39s4tdct5m1a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
